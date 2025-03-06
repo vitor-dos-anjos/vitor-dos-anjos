@@ -1,10 +1,10 @@
 ### Hi there! 👋  
 
-- Background in **social anthropology**, currently pursuing a second **bachelor's in biological sciences**  
-- Researching **how global change affects ecosystem services in the Amazon**  
-- Also work with **environmental journalism** and **science communication**  
-- Work with **spatial analysis** to study ecological patterns  
-- Use **R for data analysis**, currently learning **Python**  
-- Enjoy **hiking** and **gardening** in my free time  
+- Background in **social anthropology**, now pursuing a second **bachelor’s in biological sciences**  
+- Researching **how global change impacts ecosystem services in the Amazon**  
+- Work with **spatial analysis** to understand ecological patterns  
+- Engage in **environmental journalism**, blending science and storytelling  
+- Use **R for data analysis** and currently learning **Python**  
+- Passionate about **hiking, gardening**, and connecting with nature  
 
 Let’s connect! 🌱🌍  
